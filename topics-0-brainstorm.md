@@ -8,5 +8,5 @@ This is a first provisional list without any ranking. New lists will be created 
 ### Topics
 | nr | who | topic |
 | --- | --- | --- | 
-| 1   | cft | Kleene star |
+| 1   | cft | [Kleene star](../article-drafts-20190307/article-0-0.md) |
 | 2   | ml | |
