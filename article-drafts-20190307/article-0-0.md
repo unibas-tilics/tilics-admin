@@ -1,4 +1,4 @@
-Kleene's Star
+# Kleene's Star
 
 Computer are great at repetitive tasks. The most beautiful and concise
 way of expressing this is Kleene's star: the symbol ```*```, which
@@ -14,9 +14,13 @@ command line interfaces e.g. for listing all files that end with the
 suffix txt: ```ls *.txt``` Wildcards are also common in daily life, a
 prominent example is "blah blah".
 
+![0 or more repetitions](figures/image-0-0-kleene_star.png)
+
+## Optional text
 Stephen Kleene was a mathematician studing symbolic logic.  In that
 context there is a need to specify how well-formed expressions must be
 structured. The use of the Kleene star enables for generic
 specifications that are valid for an unbounded number of expressions.
 
-![0 or more repetitions](figures/image-0-0-kleene_star.png)
+## Author
+cft, 2019-02-26
