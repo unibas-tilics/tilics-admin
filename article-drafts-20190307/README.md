@@ -6,4 +6,4 @@ Please put your first article in this directory:
 
 # directory of draft articles
 
-(0 Kleene's Star)[article-0-0.md]
+[0 Kleene's Star](article-0-0.md)
