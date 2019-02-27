@@ -10,3 +10,8 @@ This is a first provisional list without any ranking. New lists will be created 
 | --- | --- | --- | 
 | 0   | cft | [Kleene star](article-drafts-20190307/article-0-0.md) |
 | 1   | ml | |
+| 2   | mv | Camel Case |
+| 3   | mv | Divide and Conquer |
+| 4   | mv | Leetspeak |
+| 5   | mv | How to count |
+
