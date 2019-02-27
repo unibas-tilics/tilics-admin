@@ -32,3 +32,31 @@ This is a first provisional list without any ranking. New lists will be created 
 | 22  | mv | Deterministic and Non-deterministic Algorithms |
 | 23  | mv | The more FLOPS the better |
 | 24  | mv | Atomic Operation |
+| 25  | mv | What is a Bug? |
+| 26  | mv | Debugging |
+| 27  | mv | Why Indexes speed-up things |
+| 28  | mv | Machine Language vs. Programming Language (And Compiling) |
+| 29  | mv | Recursion |
+| 30  | mv | Big O Notation |
+| 31  | mv | Greedy Algorithm |
+| 32  | mv | Deadlock |
+| 33  | mv | Brute-force |
+| 34  | mv | Separation of concerns |
+| 35  | mv | Syntactic sugar |
+| 36  | mv | Moore's Law |
+| 37  | mv | Scalability |
+| 38  | mv | Turing Test |
+| 39  | mv | Binary & Hexadecimal |
+| 40  | mv | Functional Programming vs Imperative programming |
+| 41  | mv | Endian |
+| 42  | mv | Escape sequence |
+| 43  | mv | Polymorphism |
+| 44  | mv | Lambda calculus |
+| 45  | mv | Middleware |
+| 45  | mv | What is null? |
+| 46  | mv | Overflow |
+| 47  | mv | Game of Life |
+| 48  | mv | Sandbox |
+| 49  | mv | Fuzzy Logic |
+| 50  | mv | Hello world |
+| 51  | mv | Gaussian pyramid |
