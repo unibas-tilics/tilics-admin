@@ -20,3 +20,13 @@ This is a first provisional list without any ranking. New lists will be created 
 | 10  | mv | Hash functions |
 | 11  | mv | Search for the exception |
 | 12  | mv | Make things generic |
+| 13  | mv | Exclusive OR |
+| 14  | mv | Set vs Bag |
+| 15  | mv | Stack vs Heap |
+| 16  | mv | Difference between a process and a thread |
+| 17  | mv | Context Switching is Costly |
+| 18  | mv | Loss of significance |
+| 19  | mv | The Turing Machine |
+| 20  | mv | Quick Sort |
+| 21  | mv | Merge Sort |
+| 22  | mv | Deterministic and Non-deterministic Algorithms |
