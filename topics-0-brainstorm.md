@@ -14,4 +14,9 @@ This is a first provisional list without any ranking. New lists will be created 
 | 3   | mv | Divide and Conquer |
 | 4   | mv | Leetspeak |
 | 5   | mv | How to count |
-
+| 6   | mv | Tabs vs Spaces |
+| 8   | mv | How to format format plain text |
+| 9   | mv | Coding is Creative |
+| 10  | mv | Hash functions |
+| 11  | mv | Search for the exception |
+| 12  | mv | Make things generic |
