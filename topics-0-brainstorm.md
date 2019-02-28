@@ -75,4 +75,11 @@ This is a first provisional list without any ranking. New lists will be created 
 | 64  | mv | Parity bit |
 | 65  | mv | Information hiding |
 | 66  | cft | Mythical Man Month |
-
+| 67  | mv | Hungarian notation |
+| 68  | mv | Agile Manifesto |
+| 69  | mv | Kernel panic |
+| 70  | mv | Interrupt |
+| 71  | mv | Metadata |
+| 72  | mv | Coding conventions |
+| 73  | mv | Regular expressions |
+| 74  | mv | Unix Time Stamp |
