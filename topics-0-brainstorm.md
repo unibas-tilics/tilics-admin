@@ -95,10 +95,11 @@ This is a first provisional list without any ranking. New lists will be created 
 | 84  | mv | The Noble prize of Computer Science: The *Turing Award* |
 | 85  | mv | A *Accumulator* is not always a rechargeable battery and *ALU* is not always a metal |
 | 86  | slp | Year 2038 Problem |
-| 87 | fat | Kernel Trick
-| 88 | fat | there ain't no such thing as a free lunch (Free Lunch Theorem)
-| 89 | fat | Keep it simple, stupid (KISS)
-| 90 | fat | Bias-Variance Tradeoff
-| 91 | fat | Bayes Theorem: Updating Prior Beliefs With Data
-| 92 | fat | Premature Optimization is the Root of all Evil
+| 87 | fat | Kernel Trick |
+| 88 | fat | there ain't no such thing as a free lunch (Free Lunch Theorem) |
+| 89 | fat | Keep it simple, stupid (KISS) |
+| 90 | fat | Bias-Variance Tradeoff |
+| 91 | fat | Bayes Theorem: Updating Prior Beliefs With Data |
+| 92 | fat | Premature Optimization is the Root of all Evil |
 | 93 | slp | Rice's theorem. |
+| 94 | fat | The Curse of Dimensionality |
