@@ -15,6 +15,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 4   | mv | Leetspeak |
 | 5   | mv | How to count |
 | 6   | mv | Tabs vs Spaces |
+| 7   | mv | What is null? |
 | 8   | mv | How to format format plain text |
 | 9   | mv | Coding is Creative |
 | 10  | mv | Hash functions |
@@ -53,10 +54,23 @@ This is a first provisional list without any ranking. New lists will be created 
 | 43  | mv | Polymorphism |
 | 44  | mv | Lambda calculus |
 | 45  | mv | Middleware |
-| 45  | mv | What is null? |
 | 46  | mv | Overflow |
 | 47  | mv | Game of Life |
 | 48  | mv | Sandbox |
 | 49  | mv | Fuzzy Logic |
 | 50  | mv | Hello world |
 | 51  | mv | Gaussian pyramid |
+| 52  | mv | Diff |
+| 53  | mv | Zombie Process |
+| 54  | mv | Unit test |
+| 55  | mv | Turing completeness |
+| 56  | mv | Random Seed |
+| 57  | mv | Tuple |
+| 58  | mv | Mutex |
+| 59  | mv | Backbone |
+| 60  | mv | Handshaking |
+| 61  | mv | Multiplexer |
+| 62  | mv | Shell |
+| 63  | mv | Reverse engineering |
+| 64  | mv | Parity bit |
+| 65  | mv | Information hiding |
