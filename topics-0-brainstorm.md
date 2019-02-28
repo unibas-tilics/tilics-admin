@@ -56,7 +56,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 45  | mv | Middleware |
 | 46  | mv | Overflow |
 | 47  | mv | Game of Life |
-| 48  | mv | Sandbox |
+| 48  | mv | Play in a *Sandbox* |
 | 49  | mv | Fuzzy Logic |
 | 50  | mv | Hello world |
 | 51  | mv | Gaussian pyramid |
@@ -80,6 +80,10 @@ This is a first provisional list without any ranking. New lists will be created 
 | 69  | mv | Kernel panic |
 | 70  | mv | Interrupt |
 | 71  | mv | Metadata |
-| 72  | mv | Coding conventions |
+| 72  | mv | A matter of style: *Coding conventions* |
 | 73  | mv | Regular expressions |
-| 74  | mv | Unix Time Stamp |
+| 74  | mv | How to specify dates: *Unix Time Stamp* |
+| 75  | mv | Trojan Horse |
+| 76  | mv | Always use a *Version Control System (VCS)* |
+| 77  | mv | Cloud |
+| 78  | mv | Choose the proper *level of abstraction* |
