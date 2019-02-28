@@ -92,3 +92,5 @@ This is a first provisional list without any ranking. New lists will be created 
 | 81  | mv | Pair programming |
 | 82  | mv | Script kiddie |
 | 83  | mv | Why being lazy is a good thing |
+| 84  | mv | The Noble prize of Computer Science: The *Turing Award* |
+| 85  | mv | A *Accumulator* is not always a rechargeable battery and *ALU* is not always a metal |
