@@ -107,3 +107,4 @@ This is a first provisional list without any ranking. New lists will be created 
 | 96 | cft | little endian vs big endian |
 | 97 | cft | Metcalfe's law |
 | 98 | fat | Complexity of Algorithms: Should we care about the best, worst or average case? |
+| 99 | fat | Embarrassingly Parallel Problems |
