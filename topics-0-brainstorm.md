@@ -101,3 +101,4 @@ This is a first provisional list without any ranking. New lists will be created 
 | 90 | fat | Bias-Variance Tradeoff
 | 91 | fat | Bayes Theorem: Updating Prior Beliefs With Data
 | 92 | fat | Premature Optimization is the Root of all Evil
+| 93 | slp | Rice's theorem. |
