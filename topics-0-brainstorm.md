@@ -100,5 +100,4 @@ This is a first provisional list without any ranking. New lists will be created 
 | 89 | fat | Keep it simple, stupid (KISS)
 | 90 | fat | Bias-Variance Tradeoff
 | 91 | fat | Bayes Theorem: Updating Prior Beliefs With Data
-| 92 | fat | Divide and Conquer
-| 93 | fat | Premature Optimization is the Root of all Evil
+| 92 | fat | Premature Optimization is the Root of all Evil
