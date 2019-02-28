@@ -87,3 +87,8 @@ This is a first provisional list without any ranking. New lists will be created 
 | 76  | mv | Always use a *Version Control System (VCS)* |
 | 77  | mv | Cloud |
 | 78  | mv | Choose the proper *level of abstraction* |
+| 79  | mv | Fork |
+| 80  | mv | Writing good documentation |
+| 81  | mv | Pair programming |
+| 82  | mv | Script kiddie |
+| 83  | mv | Why being lazy is a good thing |
