@@ -103,3 +103,6 @@ This is a first provisional list without any ranking. New lists will be created 
 | 92 | fat | Premature Optimization is the Root of all Evil |
 | 93 | slp | Rice's theorem. |
 | 94 | fat | The Curse of Dimensionality |
+| 95 | cft | GOTO considered harmful |
+| 96 | cft | little endian vs big endian |
+| 97 | cft | Metcalfe's law |
