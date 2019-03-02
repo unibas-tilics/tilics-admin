@@ -21,7 +21,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 10  | mv | Hash functions |
 | 11  | mv | Search for the exception |
 | 12  | mv | Make things generic |
-| 13  | mv | Exclusive OR |
+| 13* | mv | Exclusive OR |
 | 14  | mv | Set vs Bag |
 | 15  | mv | Stack vs Heap |
 | 16  | mv | Difference between a process and a thread |
