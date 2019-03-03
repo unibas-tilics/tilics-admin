@@ -37,7 +37,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 26  | mv | Debugging |
 | 27  | mv | Why Indexes speed-up things |
 | 28  | mv | Machine Language vs. Programming Language (And Compiling) |
-| 29  | mv | Recursion |
+| 29*  | mv | Recursion |
 | 30  | mv | Big O Notation |
 | 31  | mv | Greedy Algorithm |
 | 32  | mv | Deadlock |
