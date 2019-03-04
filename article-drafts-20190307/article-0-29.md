@@ -7,4 +7,5 @@ But when to stop? Recursion only works if there are certain smallest problems th
 
 ![Fibonacci Spiral](figures/image-0-29-recursion.png)
 
-
+## Authors:
+Moira Zuber, Tim Steindel, 2019-03-04
