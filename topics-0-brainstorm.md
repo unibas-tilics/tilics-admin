@@ -11,7 +11,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 0*  | cft | [Kleene star](article-drafts-20190307/article-0-0.md) |
 | 1*  | ml  | [Halting problem](article-drafts-2010307/article-0-1.md) |
 | 2   | mv  | Camel Case |
-| 3*   | mv | Divide and Conquer |
+| 3*   | mv | [Divide and Conquer](article-drafts-20190307/article-0-3.md) |
 | 4   | mv | Leetspeak |
 | 5   | mv | How to count |
 | 6   | mv | Tabs vs Spaces |
@@ -37,7 +37,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 26  | mv | Debugging |
 | 27  | mv | Why Indexes speed-up things |
 | 28  | mv | Machine Language vs. Programming Language (And Compiling) |
-| 29*  | mv | Recursion |
+| 29*  | mv | [Recursion](article-drafts-20190307/article-0-29.md) |
 | 30  | mv | Big O Notation |
 | 31  | mv | Greedy Algorithm |
 | 32  | mv | Deadlock |
