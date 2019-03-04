@@ -44,7 +44,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 33  | mv | Brute-force |
 | 34  | mv | Separation of concerns |
 | 35  | mv | Syntactic sugar |
-| 36  | mv | Moore's Law |
+| 36  | mv | [Moore's Law](article-drafts-20190307/article-0-36.md) |
 | 37  | mv | Scalability |
 | 38  | mv | Turing Test |
 | 39  | mv | Binary & Hexadecimal |
