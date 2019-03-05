@@ -31,7 +31,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 20  | mv | Quick Sort |
 | 21  | mv | Merge Sort |
 | 22  | mv | Deterministic and Non-deterministic Algorithms |
-| 23  | mv | The more FLOPS the better |
+| 23*  | mv | The more FLOPS the better |
 | 24  | mv | Atomic Operation |
 | 25  | mv | What is a Bug? |
 | 26  | mv | Debugging |
