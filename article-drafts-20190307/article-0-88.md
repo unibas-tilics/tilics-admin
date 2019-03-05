@@ -13,3 +13,6 @@ That is, there is always a cost associated with selecting a method and unfortuna
 ## Note
 Image created using xkcd-style plotting of matplotlib:
 https://matplotlib.org/xkcd/gallery.html
+
+## Author
+fat, 2019-03-05
