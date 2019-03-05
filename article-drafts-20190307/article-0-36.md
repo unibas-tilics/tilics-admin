@@ -4,7 +4,7 @@ In his 1965 paper, Gordon E. Moore projected that, based on the technological pr
 
 This rule of thumb became famous under the name "Moore's Law" and has been updated several times over the following decades. First the increase in the number of transistors used in a single chip was the driving force behind the exponential progress predicted by Moore's Law. Since the mid-1990s, and until the early 2000s, the continuation of the trend was mostly due to the downscaling of the components themselves. Today, as the manufacturing process is hitting physical limits, there is a development towards integrating functions, that until now were provided by separate components, into a single chip.
 
-![Moore's Law as Fith Paradigm in Ray Kurzweils Exponential Growth of Computing](figures/image-0-36-moore-kurzweil.jpg)
+![Moore's Law as Fith Paradigm in Ray Kurzweils Exponential Growth of Computing](https://github.com/unibas-tilics/tilics-admin/blob/master/article-drafts-20190307/figures/image-0-36-moore_kurzweil.jpeg)
 
 ## Optional Text
 
