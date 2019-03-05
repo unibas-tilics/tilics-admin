@@ -3,7 +3,7 @@ In Computer Science we have  a wide range of very different problems and accordi
 Whether that is in Search & Optimization, where we look for algorithms that find an optimal solution
 or in Machine Learning, where we try to find a model that explains the available data best.
 So it is only natural to think about methods and models that always provide us the best solution, regardless of the problem.
-However, the 'No Free Lunch' theorems state, that there is no single method that works better than all the others for all possible problem instances.
+However, the 'No Free Lunch' theorems state, that there is no single method that works better than all others, for all possible problems.
 Instead,  it is necessary to select the method based on the problem (or data) at hand.
 That is, there is always a cost associated with selecting a method and unfortunately there is no such thing as a free lunch.
 
