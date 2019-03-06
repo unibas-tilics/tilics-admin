@@ -6,7 +6,7 @@ In mathematical logic, the foundation of Computer Science, it is therefore disti
 
 The OR operator is always defined as an “and/or”. It is fulfilled if at least one of its conditions is fulfilled. An exclusive or on the other hand is fulfilled if (and only if) exactly one of the conditions is fulfilled. If both of its conditions are met, the exclusive or is no longer fulfilled.
 
-![OR vs XOR: Truth Table](figures/image-0-13-truth-table.pdf)
+![OR vs XOR: Truth Table](figures/image-0-13-truth-table.svg)
 
 
 
@@ -14,5 +14,6 @@ The OR operator is always defined as an “and/or”. It is fulfilled if at leas
 While it is crucial for computer systems to relay on a clearly defined set of operators, the authors believe that human languages would also benefit from more precise terms.
 
 
-## Authors:
+
+## Author:
 Marco Vogt, 2019-03-06
