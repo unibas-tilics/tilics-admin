@@ -21,7 +21,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 10  | mv | Hash functions |
 | 11  | mv | Search for the exception |
 | 12  | mv | Make things generic |
-| 13* | mv | Exclusive OR |
+| 13* | mv | [Exclusive OR](article-drafts-20190307/article-0-13.md) |
 | 14  | mv | Set vs Bag |
 | 15  | mv | Stack vs Heap |
 | 16  | mv | Difference between a process and a thread |
@@ -110,3 +110,4 @@ This is a first provisional list without any ranking. New lists will be created 
 | 99 | fat | Embarrassingly Parallel Problems |
 | 100 | fat | Errors propagate, or why you should sometimes care about that tiny inaccuracy. |
 | 101 | fat | Waterfalls are dangerous. (Software Development) |
+| 102 | mv  | Sheffer stroke |
