@@ -6,4 +6,4 @@ A machine language is a low-level language that the machines can read, and under
 
 In between, there is a compiler which is a computer program that can understand both languages high-/low-level languages and interpret one to another. 
 
-![](image-0-28-MachineLanguagevsProgrammingLanguage.JPG)
+![](figures/image-0-28-MachineLanguagevsProgrammingLanguage.JPG)
