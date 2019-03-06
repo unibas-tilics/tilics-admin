@@ -14,7 +14,7 @@ The OR operator is always defined as an “and/or”. It is fulfilled if at leas
 
 
 ## Optional text
-While it is crucial for computer systems to relay on a clearly defined set of operators, the authors believe that human languages would also benefit from more precise terms.
+While it is crucial for computer systems to rely on a clearly defined set of operators, the authors believe that human languages would also benefit from more precise terms.
 
 
 
