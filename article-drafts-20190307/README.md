@@ -10,3 +10,4 @@ Please put your first article in this directory:
 [29 Recursion](article-0-29.md)  
 [3 Divide and Conquer](article-0-3.md)  
 [88 Free Lunch Theorem](article-0-88.md)  
+[13 Exclusive OR](article-0-13.md)  
