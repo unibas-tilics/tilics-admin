@@ -13,7 +13,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 2   | mv  | Camel Case |
 | 3*   | mv | [Divide and Conquer](article-drafts-20190307/article-0-3.md) |
 | 4   | mv | Leetspeak |
-| 5   | mv | How to count |
+| 5*   | mv | How to count |
 | 6   | mv | Tabs vs Spaces |
 | 7   | mv | What is null? |
 | 8   | mv | How to format format plain text |
