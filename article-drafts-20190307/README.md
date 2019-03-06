@@ -12,4 +12,4 @@ Please put your first article in this directory:
 [29 Recursion](article-0-29.md)  
 [36 Moore's Law](article-0-36.md)  
 [88 Free Lunch Theorem](article-0-88.md)  
-[28 Machine Language vs. Programming Language (And Compiling)] (article-0-28.md)
+[28 Machine Language vs. Programming Language (And Compiling)](article-0-28.md)
