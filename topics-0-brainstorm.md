@@ -47,7 +47,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 36  | mv | [Moore's Law](article-drafts-20190307/article-0-36.md) |
 | 37  | mv | Scalability |
 | 38  | mv | Turing Test |
-| 39  | mv | Binary & Hexadecimal |
+| 39*  | mv | Binary & Hexadecimal |
 | 40  | mv | Functional Programming vs Imperative programming |
 | 41  | mv | Endian |
 | 42  | mv | Escape sequence |
