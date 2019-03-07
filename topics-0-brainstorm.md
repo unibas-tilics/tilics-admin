@@ -111,3 +111,4 @@ This is a first provisional list without any ranking. New lists will be created 
 | 100 | fat | Errors propagate, or why you should sometimes care about that tiny inaccuracy. |
 | 101 | fat | Waterfalls are dangerous. (Software Development) |
 | 102 | mv  | Sheffer stroke |
+| 103 | slp | How big is Big Data? |
