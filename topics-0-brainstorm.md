@@ -112,3 +112,6 @@ This is a first provisional list without any ranking. New lists will be created 
 | 101 | fat | Waterfalls are dangerous. (Software Development) |
 | 102 | mv  | Sheffer stroke |
 | 103 | slp | How big is Big Data? |
+| 104 | omn | Monte carlo methods |
+| 105 | omn | livelock |
+| 106 | omn | What's an Operating System? |
