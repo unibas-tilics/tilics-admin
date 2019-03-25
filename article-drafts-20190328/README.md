@@ -3,7 +3,7 @@ Please put your article for the first block in this directory:
 - Filename: ```article-1-TOPICNR.md```
 - Add illustration in subfolder ```figures```
 - Name your figures as ```figures/image-1-TOPICNR-YOURSUFFIX```
-- Check your article using [Hemmingwayapp](http://hemingwayapp.com/)
+- Check your article using [Hemmingway App](http://hemingwayapp.com/)
 
 # directory of articles, Block 1
 
