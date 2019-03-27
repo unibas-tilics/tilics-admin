@@ -1,6 +1,6 @@
 # Tooling
 
-This repository contains documents and guidelines created by the tooling group.
+This folder contains documents and guidelines created by the tooling group.
 
 
 ## Table of contents
