@@ -99,7 +99,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 88 | fat | [There is no such thing as a free lunch](article-drafts-20190307/article-0-88.md) (Free Lunch Theorem) |
 | 89 | fat | Keep it simple, stupid (KISS) |
 | 90 | fat | Bias-Variance Tradeoff |
-| 91 | fat | Bayes Theorem: Updating Prior Beliefs With Data |
+| 91 | fat* | [Bayes Theorem: Updating Prior Beliefs With Data](article-1-91.md) |
 | 92 | fat | Premature Optimization is the Root of all Evil |
 | 93* | slp | Rice's theorem. |
 | 94 | fat | The Curse of Dimensionality |
