@@ -16,3 +16,11 @@ Good programmers are diligent to be lazy. Or with other words: They are strategi
 
 ## Author
 Marco Vogt, 2019-03-27
+
+
+## Attributes
+* :book:  long
+* :mouse:  easy to read
+* :school_satchel:  easy to understand
+* :laughing:  funny text
+* :boom:  catchy header
