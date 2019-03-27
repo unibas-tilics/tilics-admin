@@ -9,5 +9,5 @@ This folder contains documents and guidelines created by the tooling group.
 
 
 ## Members
-Sebastian Philipp
-Marco Vogt
+* Sebastian Philipp
+* Marco Vogt
