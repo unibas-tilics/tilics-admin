@@ -113,6 +113,6 @@ This is a first provisional list without any ranking. New lists will be created 
 | 102 | mv  | Sheffer stroke |
 | 103 | slp | How big is Big Data? |
 | 104 | omn | Monte carlo methods |
-| 105 | omn | livelock |
+| 105* | omn | livelock |
 | 106 | omn | What's an Operating System? |
 | 107 | nb | P vs. NP (Complexity Classes) |
