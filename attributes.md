@@ -4,6 +4,6 @@ The following list contains some attributes for labeling and categorizing the ar
 
 * short ( :page_with_curl: ) / long ( :book: )
 * light ( :mouse: ) / heavy  ( :elephant: ) (to read)
-* easy ( :octocat: ) / difficult ( :mortar_board: ) (to understand) 
+* easy ( :school_satchel: ) / difficult ( :mortar_board: ) (to understand) 
 * funny ( :laughing: ) / informative ( :bowtie: ) / catchy ( :sunglasses: ) (text)
 * funny ( :santa: ) / informative ( :bulb: ) / catchy ( :boom: ) (header)
