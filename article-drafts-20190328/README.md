@@ -6,4 +6,4 @@ Please put your article for the first block in this directory:
 - Check your article using [Hemmingway App](http://hemingwayapp.com/)
 
 # directory of articles, Block 1
-
+[83 Being lazy is a good thing](article-1-83.md)
