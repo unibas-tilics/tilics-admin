@@ -2,8 +2,24 @@
 
 The following list contains some attributes for labeling and categorizing the article. Please pick one or several of these attributes for your article.
 
-* short ( :page_with_curl: ) / long ( :book: )
-* light ( :mouse: ) / heavy  ( :elephant: ) (to read)
-* easy ( :school_satchel: ) / difficult ( :mortar_board: ) (to understand) 
-* funny ( :laughing: ) / informative ( :bowtie: ) / catchy ( :sunglasses: ) (text)
-* funny ( :santa: ) / informative ( :bulb: ) / catchy ( :boom: ) (header)
+### Length of text
+* short ( :page_with_curl: )
+* long ( :book: )
+
+### Difficulty (to read)
+* light ( :mouse: )
+* heavy  ( :elephant: )
+
+### Difficulty (to understand)
+* easy ( :school_satchel: )
+* difficult ( :mortar_board: )
+
+### Type of text
+* funny ( :laughing: )
+* informative ( :bowtie: ) 
+* catchy ( :sunglasses: )
+
+### Type of header
+* funny ( :santa: ) 
+* informative ( :bulb: ) 
+* catchy ( :boom: )
