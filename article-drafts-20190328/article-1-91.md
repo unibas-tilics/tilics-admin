@@ -1,6 +1,6 @@
 # Bayes Theorem: Updating Prior Beliefs With Data
 One might argue that our standard way of reasoning consists of two basic elements: 
-The initial belief we have about a topic and the step of updating of this belief when we observe something new. 
+The initial belief we have about a topic and the step of updating this belief when we observe something new. 
 
 For example, you at first expect a deck of cards to be fair when playing a game of poker. But after observing four straight flushes in a row, it is natural to believe that the game has been tempered with.
 And if you actually expected the other players to be sketchy beforehand, you would come to that conclusion  way faster.
