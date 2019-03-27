@@ -20,7 +20,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 9   | mv | Coding is Creative |
 | 10  | mv | Hash functions |
 | 11  | mv | Search for the exception |
-| 12  | mv | Make things generic |
+| 12  | mv | Make things generic *(overlap with topic #83)* |
 | 13* | mv | [Exclusive OR](article-drafts-20190307/article-0-13.md) |
 | 14  | mv | Set vs Bag |
 | 15  | mv | Stack vs Heap |
