@@ -14,7 +14,7 @@ So even if we initially believe Computer Science to be about fixing Computers, l
 
 ## Note
 I'm not really happy with the poker example, I think there should be way better examples..
-
+A better example would also potentially offer itself for an image.
 
 ## Author
 Fabricio Arend Torres, 27-03-2019
