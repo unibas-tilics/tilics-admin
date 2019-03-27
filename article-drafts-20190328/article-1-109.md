@@ -9,7 +9,7 @@ Where a simple object with smooth areas like a cube can be modeled by using only
 
 <br/>
 
-![Teapot](figures/image-1-109-teapot.svg)
+![Teapot](figures/image-1-109-teapot.jpg)
 
 <br/>
 
