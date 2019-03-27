@@ -101,7 +101,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 90 | fat | Bias-Variance Tradeoff |
 | 91 | fat* | [Bayes Theorem: Updating Prior Beliefs With Data](article-1-91.md) |
 | 92 | fat | Premature Optimization is the Root of all Evil |
-| 93* | slp | Rice's theorem. |
+| 93* | slp | [Rice's Theorem - Or Why There Is No Perfect Anti-Virus](article-drafts-20190328/article-1-93.md) |
 | 94 | fat | The Curse of Dimensionality |
 | 95 | cft | GOTO considered harmful |
 | 96 | cft | little endian vs big endian |
