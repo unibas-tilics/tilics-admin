@@ -118,3 +118,4 @@ This is a first provisional list without any ranking. New lists will be created 
 | 107 | nb | P vs. NP (Complexity Classes) |
 | 108* | mz | Recursion vs Iteration | 
 | 109* | rd | World of triangles | 
+| 110 | slp | Speculative Execution |
