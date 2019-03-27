@@ -16,7 +16,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 5*   | mv | How to count |
 | 6   | mv | Tabs vs Spaces |
 | 7   | mv | What is null? |
-| 8   | mv | How to format format plain text |
+| 8   | mv | How to format plain text |
 | 9   | mv | Coding is Creative |
 | 10  | mv | Hash functions |
 | 11  | mv | Search for the exception |
