@@ -1,9 +1,9 @@
 # Attributes
 
-The following list contains some attributes for labeling and categorizing the article. Please pick one or serveral of these attributes for your article
+The following list contains some attributes for labeling and categorizing the article. Please pick one or several of these attributes for your article.
 
-* short / long
-* light / heavy  (to read)
-* easy  / difficult (to understand)
-* funny / informative / catchy (text)
-* funny / informative / catchy (header)
+* short ( :page_with_curl: ) / long ( :book: )
+* light ( :mouse: ) / heavy  ( :elephant: ) (to read)
+* easy ( :octocat: ) / difficult ( :mortar_board: ) (to understand) 
+* funny ( :laughing: ) / informative ( :bowtie: ) / catchy ( :sunglasses: ) (text)
+* funny ( :santa: ) / informative ( :bulb: ) / catchy ( :boom: ) (header)
