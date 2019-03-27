@@ -71,7 +71,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 60  | mv | Handshaking |
 | 61  | mv | Multiplexer |
 | 62  | mv | Shell |
-| 63  | mv | Reverse engineering |
+| 63*  | mv | Reverse engineering |
 | 64  | mv | Parity bit |
 | 65  | mv | Information hiding |
 | 66  | cft | Mythical Man Month |
