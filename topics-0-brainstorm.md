@@ -113,9 +113,9 @@ This is a first provisional list without any ranking. New lists will be created 
 | 102 | mv  | Sheffer stroke |
 | 103 | slp | How big is Big Data? |
 | 104 | omn | Monte carlo methods |
-| 105* | omn | livelock |
+| 105* | omn | [Livelock](article-drafts-20190328/article-1-105.md) |
 | 106 | omn | What's an Operating System? |
 | 107 | nb | P vs. NP (Complexity Classes) |
 | 108* | mz | Recursion vs Iteration | 
-| 109* | rd | World of triangles | 
+| 109* | rd | [World of triangles](article-drafts-20190328/article-1-105.md) | 
 | 110 | slp | Speculative Execution |
