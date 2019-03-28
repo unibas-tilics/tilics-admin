@@ -127,3 +127,4 @@ This is a first provisional list without any ranking. New lists will be created 
 | nr  | Author (year) | Quote |
 | --- | --- | --- |
 | 0 | Vladimir Vapnik (1998) | "When solving a problem of interest, do not solve a more general problem as an intermediate step. Try to get the answer that you really need but not a more general one."|
+| 1 | John Naisbitt | "We are drowning in information and starving for knowledge." |
