@@ -13,3 +13,5 @@ Please put your article for the first block in this directory:
 * [93 Rice's Theorem - Or Why There Is No Perfect Anti-Virus](article-1-93.md)
 * [105 Livelock](article-1-105.md)
 * [109 World of triangles](article-1-109.md)
+* [108 Recursion vs Iteration](article-1-108.md)
+* [7 What is null](artivle-1-7.md)
