@@ -116,6 +116,6 @@ This is a first provisional list without any ranking. New lists will be created 
 | 105* | omn | [Livelock](article-drafts-20190328/article-1-105.md) |
 | 106 | omn | What's an Operating System? |
 | 107 | nb | P vs. NP (Complexity Classes) |
-| 108* | mz | Recursion vs Iteration | 
+| 108* | mz | [Recursion vs Iteration](article-drafts-20190328/article-1-108.md) | 
 | 109* | rd | [World of triangles](article-drafts-20190328/article-1-105.md) | 
 | 110 | slp | Speculative Execution |
