@@ -40,7 +40,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 29*  | mv | [Recursion](article-drafts-20190307/article-0-29.md) |
 | 30  | mv | Big O Notation |
 | 31  | mv | Greedy Algorithm |
-| 32  | mv | Deadlock |
+| 32*  | mv | [Deadlock](article-drafts-20190328/article-1-32.md) |
 | 33  | mv | Brute-force |
 | 34  | mv | Separation of concerns |
 | 35  | mv | Syntactic sugar |
