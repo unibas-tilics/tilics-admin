@@ -33,7 +33,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 22  | mv | Deterministic and Non-deterministic Algorithms |
 | 23*  | mv | [The more FLOPS the better](article-drafts-20190307/article-0-23.md) |
 | 24  | mv | Atomic Operation |
-| 25  | mv | What is a Bug? |
+| 25*  | mv | What is a Bug? |
 | 26  | mv | Debugging |
 | 27  | mv | Why Indexes speed-up things |
 | 28  | mv | Machine Language vs. Programming Language (And Compiling) |
