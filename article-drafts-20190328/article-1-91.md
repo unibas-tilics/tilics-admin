@@ -16,5 +16,14 @@ So even if we initially believe Computer Science to be about fixing Computers, l
 I'm not really happy with the poker example, I think there should be way better examples..
 A better example would also potentially offer itself for an image.
 
+## Attributes
+
+## Attributes:
+* Length of text :page_with_curl: long 
+* Difficulty (to read) :mouse:  medium
+* Difficulty (to understand) :school_satchel:  medium 
+* Type of text :bowtie:  informative 
+* Type of header :bulb:  informative 
+
 ## Author
 Fabricio Arend Torres, 27-03-2019
