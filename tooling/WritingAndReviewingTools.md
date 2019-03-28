@@ -112,6 +112,18 @@ Disadvantages:
 * No integrated support for labeling
 
 
+### Blockchain
+
+We could put articles into a blockchain!
+
+Advantages:
+
+* Hype
+
+Disadvantages:
+
+* Blockchain
+
 
 
 ## Conclusion
