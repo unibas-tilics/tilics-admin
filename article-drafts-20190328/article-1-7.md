@@ -6,6 +6,10 @@ non existing values. For example null is useful for databases. Suppose we have a
 it does make a different if a patient has not a disease (0) or is not yet diagnosed (null).
 
 
+![NUll](figures/image-1-7-NULL.png)
+
+# Remark
+I do not like the image, hopefully someone has a better idea. Also the notation of null (or NULL) and include NaN etc.? 
 
 
 # Author
