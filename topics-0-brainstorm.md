@@ -119,3 +119,11 @@ This is a first provisional list without any ranking. New lists will be created 
 | 108* | mz | [Recursion vs Iteration](article-drafts-20190328/article-1-108.md) | 
 | 109* | rd | [World of triangles](article-drafts-20190328/article-1-105.md) | 
 | 110 | slp | Speculative Execution |
+
+
+
+### Quotes
+
+| nr  | Author (year) | Quote |
+| --- | --- | --- |
+| 0 | Vladimir Vapnik (1998) | "When solving a problem of interest, do not solve a more general problem as an intermediate step. Try to get the answer that you really need but not a more general one."|
