@@ -19,9 +19,9 @@ A better example would also potentially offer itself for an image.
 ## Attributes
 
 ## Attributes:
-* Length of text :page_with_curl: long 
-* Difficulty (to read) :mouse:  medium
-* Difficulty (to understand) :school_satchel:  medium 
+* Length of text :book: long 
+* Difficulty (to read) :elephant:  heavy
+* Difficulty (to understand) :mortar_board:  medium-hard 
 * Type of text :bowtie:  informative 
 * Type of header :bulb:  informative 
 
