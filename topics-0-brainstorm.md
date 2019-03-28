@@ -15,7 +15,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 4   | mv | Leetspeak |
 | 5*   | mv | How to count |
 | 6   | mv | Tabs vs Spaces |
-| 7*   | mv | What is null? |
+| 7*   | mv | What is null? (article-drafts-20190328/article-1-7.md)  |
 | 8   | mv | How to format plain text |
 | 9   | mv | Coding is Creative |
 | 10  | mv | Hash functions |
