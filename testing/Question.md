@@ -4,5 +4,8 @@ Question and what we should test:
 * Difficulty (Language) 1-10
 * How funny was the article 
 * A simple like/dislike
+* Catchiness of the article
+* Does the testing person want to read more articles?
+  * possible as a question or if we have mutliple articles niclely bounded
 * Improvement
 
