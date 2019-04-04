@@ -60,7 +60,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 49  | mv | Fuzzy Logic |
 | 50  | mv | Hello world |
 | 51  | mv | Gaussian pyramid |
-| 52  | mv | Diff |
+| 52  | mv | [Diff]((article-drafts-20190307/article-0-52.md) |
 | 53  | mv | Zombie Process |
 | 54  | mv | Unit test |
 | 55  | mv | Turing completeness |
