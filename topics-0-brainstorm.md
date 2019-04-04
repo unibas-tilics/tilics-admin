@@ -47,7 +47,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 36  | mv | [Moore's Law](article-drafts-20190307/article-0-36.md) |
 | 37  | mv | Scalability |
 | 38  | mv | Turing Test |
-| 39*  | mv | Binary & Hexadecimal |
+| 39* | mv | Binary & Hexadecimal |
 | 40  | mv | Functional Programming vs Imperative programming |
 | 41  | mv | Endian |
 | 42  | mv | Escape sequence |
@@ -60,7 +60,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 49  | mv | Fuzzy Logic |
 | 50  | mv | Hello world |
 | 51  | mv | Gaussian pyramid |
-| 52  | mv | [Diff]((article-drafts-20190307/article-0-52.md) |
+| 52* | mv | [Diff](article-drafts-20190307/article-0-52.md) |
 | 53  | mv | Zombie Process |
 | 54  | mv | Unit test |
 | 55  | mv | Turing completeness |
@@ -71,7 +71,7 @@ This is a first provisional list without any ranking. New lists will be created 
 | 60  | mv | Handshaking |
 | 61  | mv | Multiplexer |
 | 62  | mv | Shell |
-| 63*  | mv | Reverse engineering |
+| 63* | mv | Reverse engineering |
 | 64  | mv | Parity bit |
 | 65  | mv | Information hiding |
 | 66  | cft | Mythical Man Month |
