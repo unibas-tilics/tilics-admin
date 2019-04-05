@@ -33,6 +33,8 @@ Put your article's text in Markdown here.
 <!-- END BODY -->
 
 
+![Image title](../images/image-NUMBER-NAME_OF_ARTICLE.svg)
+
 
 ## Optional text
 <!-- BEGIN OPTIONAL -->
@@ -47,10 +49,9 @@ Put your name here.
 <!-- END AUTHOR -->
 ```
 
-If you already have a image draft you want to add for the artist(s) to
-base their design on, add the image file to the `images` directory,
-with the same name as the article file, except for the proper file
-extension.
+Pleas put your image draft for the artist(s) to the `images` directory.
+The file should have the same name as the article file, except for the 
+prefix and the proper file extension.
 
 Commit and push to your previously created branch.
 
@@ -61,8 +62,8 @@ Follow the instructions in the pull request template.
 
 ## Step 4: Review
 
-In order to be merged, the pull request requires X (TODO: how many?)
-approvals from the review team.
+In order to be merged, the pull request requires two approvals from the 
+review team.
 
 Reviewers can add comments in the pull request's comment thread if
 something should be changed.  When editing your article, simply commit
