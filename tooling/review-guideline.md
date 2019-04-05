@@ -45,7 +45,7 @@ If your article has some optional text, add it here.
 
 ## Author
 <!-- BEGIN AUTHOR -->
-Put your name here.
+Put your name (and only your name) here.
 <!-- END AUTHOR -->
 ```
 
