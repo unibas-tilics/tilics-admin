@@ -49,7 +49,7 @@ Put your name (and only your name) here.
 <!-- END AUTHOR -->
 ```
 
-Pleas put your image draft for the artist(s) to the `images` directory.
+Please put your image draft for the artist(s) to the `images` directory.
 The file should have the same name as the article file, except for the 
 prefix and the proper file extension.
 
