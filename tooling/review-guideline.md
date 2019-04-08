@@ -58,7 +58,8 @@ Commit and push to your previously created branch.
 ## Step 3: Open a pull request
 
 Create a pull request from your branch against the `master` branch.
-Follow the instructions in the pull request template.
+Therefore, please click on "New pull request" and follow the instructions 
+in the already pre-filled description of the pull request.
 
 ## Step 4: Review
 
