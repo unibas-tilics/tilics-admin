@@ -84,7 +84,7 @@ This is a first provisional list without any ranking.
 | 073   | mv  | Regular expressions |
 | 074   | mv  | How to specify dates: *Unix Time Stamp* |
 | 075   | mv  | Trojan Horse |
-| 076   | mv  | Always use a *Version Control System (VCS)* |
+| 076*   | mv  | Always use a *Version Control System (VCS)* |
 | 077   | mv  | Cloud |
 | 078   | mv  | Choose the proper *level of abstraction* |
 | 079   | mv  | Fork |
