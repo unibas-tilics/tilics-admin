@@ -60,7 +60,7 @@ This is a first provisional list without any ranking.
 | 049   | mv  | Fuzzy Logic |
 | 050   | mv  | Hello world |
 | 051   | mv  | Gaussian pyramid |
-| 052*  | mv  | [Diff](article-drafts-20190307/article-0-52.md) |
+| 052*  | mv  | [Diff](article-drafts-20190411/article-1-052.md) |
 | 053   | mv  | Zombie Process |
 | 054   | mv  | Unit test |
 | 055   | mv  | Turing completeness |

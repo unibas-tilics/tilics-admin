@@ -12,7 +12,7 @@ In practice, your computer or smartphone is patched all the time, where
 it's called an _update_. Usually only the difference is sent to you,
 not a full copy of the improved program.
 
-![spot the diffs](figures/spot-the-diff.png)
+![spot the diffs](figures/image-1-052-spot_the_diff.png)
 
 
 ## Author
