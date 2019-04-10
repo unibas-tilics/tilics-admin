@@ -41,7 +41,7 @@ This is a first provisional list without any ranking.
 | 030   | mv  | Big O Notation |
 | 031   | mv  | Greedy Algorithm |
 | 032*  | mv  | [Deadlock](article-drafts-20190328/article-1-32.md) |
-| 033   | mv  | Brute-force |
+| 033   | mv  | [Brute force](article-drafts-20190411/article-1-033.md) |
 | 034   | mv  | Separation of concerns |
 | 035   | mv  | Syntactic sugar |
 | 036   | mv  | [Moore's Law](article-drafts-20190307/article-0-36.md) |
