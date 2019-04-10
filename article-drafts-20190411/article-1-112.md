@@ -16,3 +16,7 @@ transpilers and compiler-compilers (cocos).
 
 ## Author
 cft, 2019-04-10
+
+## Ref:
+
+[Seminar notes 1954, see p38..](http://www.textfiles.com/bitsavers/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf)
