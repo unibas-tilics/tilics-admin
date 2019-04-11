@@ -118,10 +118,11 @@ This is a first provisional list without any ranking.
 | 107   | nb  | P vs. NP (Complexity Classes) |
 | 108*  | mz  | [Recursion vs Iteration](article-drafts-20190328/article-1-108.md) | 
 | 109*  | rd  | [World of triangles](article-drafts-20190328/article-1-105.md) | 
-| 110   | slp | Speculative Execution |
+| 110*  | slp | Speculative Execution - Guess Fast Or Wait! |
 | 111*  | sd  | Binary counting |
 | 112*  | cft | [Machines within Machines (compiler)](article-drafts-20190411/article-1-112.md) |
 | 113*  | ml  | [Lisp](article-drafts-20190411/article-1-113.md)
+| 114*  | slp | Why Uptime Matters |
 
 ### Quotes
 
