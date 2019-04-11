@@ -43,7 +43,7 @@ This is a first provisional list without any ranking.
 | 030   | mv  | Big O Notation |
 | 031   | mv  | Greedy Algorithm |
 | 032*  | mv  | [Deadlock](article-drafts-20190328/article-1-32.md) |
-| 033!  | mv  | [~~~Brute force~~~](articles-moved-to-tilics/article-1-033.md) |
+| 033!  | mv  | [~~Brute force~~](articles-moved-to-tilics/article-1-033.md) |
 | 034   | mv  | Separation of concerns |
 | 035   | mv  | Syntactic sugar |
 | 036   | mv  | [Moore's Law](article-drafts-20190307/article-0-36.md) |
@@ -62,7 +62,7 @@ This is a first provisional list without any ranking.
 | 049   | mv  | Fuzzy Logic |
 | 050   | mv  | Hello world |
 | 051   | mv  | Gaussian pyramid |
-| 052!  | mv  | [~~~Diff~~~](articles-moved-to-tilics/article-1-052.md) |
+| 052!  | mv  | [~~Diff~~](articles-moved-to-tilics/article-1-052.md) |
 | 053   | mv  | Zombie Process |
 | 054   | mv  | Unit test |
 | 055   | mv  | Turing completeness |
@@ -122,7 +122,7 @@ This is a first provisional list without any ranking.
 | 109*  | rd  | [World of triangles](article-drafts-20190328/article-1-105.md) | 
 | 110*  | slp | Speculative Execution - Guess Fast Or Wait! |
 | 111*  | sd  | Binary counting |
-| 112!  | cft | [~~~Machines within Machines (compiler)~~~](articles-moved-to-tilics/article-1-112.md) |
+| 112!  | cft | [~~Machines within Machines (compiler)~~](articles-moved-to-tilics/article-1-112.md) |
 | 113*  | ml  | [Lisp](article-drafts-20190411/article-1-113.md)
 | 114*  | slp | Why Uptime Matters |
 
