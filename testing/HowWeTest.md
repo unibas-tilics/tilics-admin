@@ -1,7 +1,7 @@
 ## Possible Testing methods
 
 * Questionnaire:
-  * Using SoSci survey. example: https://www.soscisurvey.de/test162686/
+  * Using SoSci survey. example: https://www.soscisurvey.de/101tilics/
   * online/ paper
   + Much feedback per person, but less person willingly for testing 
 
