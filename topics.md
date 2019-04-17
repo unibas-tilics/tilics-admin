@@ -125,6 +125,9 @@ This is a first provisional list without any ranking.
 | 112!  | cft | [~~Machines within Machines (compiler)~~](articles-moved-to-tilics/article-1-112.md) |
 | 113*  | ml  | [Lisp](article-drafts-20190411/article-1-113.md)
 | 114*  | slp | Why Uptime Matters |
+| 115*  | rd | When use if |
+| 116*  | rd | Names of of programming languages |
+| 117*  | rd | Why it is good to always use the same example|
 
 ### Quotes
 
