@@ -33,7 +33,7 @@ Put your article's text in Markdown here.
 <!-- END BODY -->
 
 
-![Image title](../images/image-NUMBER-NAME_OF_ARTICLE.svg)
+![Image title](../images/image-NUMBER-NAME-OF-ARTICLE.svg)
 
 
 ## Optional text
