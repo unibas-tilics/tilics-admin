@@ -23,13 +23,13 @@ This is a first provisional list without any ranking.
 | 010   | mv  | Hash functions |
 | 011   | mv  | Search for the exception |
 | 012   | mv  | Make things generic *(overlap with topic #83)* |
-| 013*  | mv  | [Exclusive OR](article-drafts-20190307/article-0-13.md) |
+| 013!  | mv  | [Exclusive OR](article-drafts-20190307/article-0-13.md) |
 | 014   | mv  | Set vs Bag |
 | 015   | mv  | Stack vs Heap |
 | 016   | mv  | Difference between a process and a thread |
 | 017   | mv  | Context Switching is Costly |
 | 018   | mv  | Loss of significance |
-| 019   | mv  | The Turing Machine |
+| 019*  | mv  | The Turing Machine |
 | 020   | mv  | Quick Sort |
 | 021   | mv  | Merge Sort |
 | 022   | mv  | Deterministic and Non-deterministic Algorithms |
@@ -40,7 +40,7 @@ This is a first provisional list without any ranking.
 | 027   | mv  | Why Indexes speed-up things |
 | 028   | mv  | Machine Language vs. Programming Language (And Compiling) |
 | 029*  | mv  | [Recursion](article-drafts-20190307/article-0-29.md) |
-| 030*   | mv  | Big O Notation |
+| 030*  | mv  | Big O Notation |
 | 031   | mv  | Greedy Algorithm |
 | 032*  | mv  | [Deadlock](article-drafts-20190328/article-1-32.md) |
 | 033!  | mv  | [~~Brute force~~](articles-moved-to-tilics/article-1-033.md) |
@@ -65,7 +65,7 @@ This is a first provisional list without any ranking.
 | 052!  | mv  | [~~Diff~~](articles-moved-to-tilics/article-1-052.md) |
 | 053   | mv  | Zombie Process |
 | 054   | mv  | Unit test |
-| 055   | mv  | Turing completeness |
+| 055*  | mv  | Turing completeness |
 | 056   | mv  | Random Seed |
 | 057   | mv  | Tuple |
 | 058   | mv  | Mutex |
@@ -86,17 +86,17 @@ This is a first provisional list without any ranking.
 | 073   | mv  | Regular expressions |
 | 074   | mv  | How to specify dates: *Unix Time Stamp* |
 | 075   | mv  | Trojan Horse |
-| 076*   | mv  | Always use a *Version Control System (VCS)* |
+| 076*  | mv  | Always use a *Version Control System (VCS)* |
 | 077   | mv  | Cloud |
 | 078   | mv  | Choose the proper *level of abstraction* |
 | 079   | mv  | Fork |
 | 080   | mv  | Writing good documentation |
 | 081   | mv  | Pair programming |
 | 082   | mv  | Script kiddie |
-| 083*  | mv  | [Being lazy is a good thing](article-drafts-20190328/article-1-83.md) |
+| 083!  | mv  | [Being lazy is a good thing](article-drafts-20190328/article-1-83.md) |
 | 084   | mv  | The Noble prize of Computer Science: The *Turing Award* |
 | 085   | mv  | A *Accumulator* is not always a rechargeable battery and *ALU* is not always a metal |
-| 086*   | slp | Year 2038 Problem |
+| 086*  | slp | Year 2038 Problem |
 | 087   | fat | Kernel Trick |
 | 088   | fat | [There is no such thing as a free lunch](article-drafts-20190307/article-0-88.md) (Free Lunch Theorem) |
 | 089   | fat | Keep it simple, stupid (KISS) |
@@ -114,7 +114,7 @@ This is a first provisional list without any ranking.
 | 101   | fat | Waterfalls are dangerous. (Software Development) |
 | 102   | mv  | Sheffer stroke |
 | 103   | slp | How big is Big Data? |
-| 104*   | omn | Monte carlo methods |
+| 104*  | omn | Monte carlo methods |
 | 105*  | omn | [Livelock](article-drafts-20190328/article-1-105.md) |
 | 106   | omn | What's an Operating System? |
 | 107   | nb  | P vs. NP (Complexity Classes) |
@@ -125,9 +125,10 @@ This is a first provisional list without any ranking.
 | 112!  | cft | [~~Machines within Machines (compiler)~~](articles-moved-to-tilics/article-1-112.md) |
 | 113*  | ml  | [Lisp](article-drafts-20190411/article-1-113.md)
 | 114*  | slp | Why Uptime Matters |
-| 115*  | rd | When use if |
-| 116*  | rd | Names of of programming languages |
-| 117*  | rd | Why it is good to always use the same example|
+| 115*  | rd  | When use if |
+| 116*  | rd  | Names of of programming languages |
+| 117*  | rd  | Why it is good to always use the same example |
+| 118*  | mv  | State machine |
 
 ### Quotes
 
