@@ -129,6 +129,7 @@ This is a first provisional list without any ranking.
 | 116*  | rd  | Names of of programming languages |
 | 117*  | rd  | Why it is good to always use the same example |
 | 118*  | mv  | State machine |
+| 119*  | ts  | Supervised Learning |
 
 ### Quotes
 
