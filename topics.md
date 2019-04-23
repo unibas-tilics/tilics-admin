@@ -20,7 +20,7 @@ This is a first provisional list without any ranking.
 | 007*  | mv  | [What is null?](article-drafts-20190328/article-1-7.md)  |
 | 008   | mv  | How to format plain text |
 | 009   | mv  | Coding is Creative |
-| 010   | mv  | Hash functions |
+| 010!  | mv  | ~~Hash functions~~ |
 | 011   | mv  | Search for the exception |
 | 012   | mv  | Make things generic *(overlap with topic #83)* |
 | 013!  | mv  | [Exclusive OR](article-drafts-20190307/article-0-13.md) |
