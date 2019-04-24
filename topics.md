@@ -34,7 +34,7 @@ This is a first provisional list without any ranking.
 | 021   | mv  | Merge Sort |
 | 022   | mv  | Deterministic and Non-deterministic Algorithms |
 | 023*  | mv  | [The more FLOPS the better](article-drafts-20190307/article-0-23.md) |
-| 024   | mv  | Atomic Operation |
+| 024*   | mv  | Atomic Operation |
 | 025*  | mv  | [Why we all hate Bugs!](article-drafts-20190328/article-1-25.md)|
 | 026   | mv  | Debugging |
 | 027   | mv  | Why Indexes speed-up things |
