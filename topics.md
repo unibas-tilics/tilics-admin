@@ -34,7 +34,7 @@ This is a first provisional list without any ranking.
 | 021   | mv  | Merge Sort |
 | 022   | mv  | Deterministic and Non-deterministic Algorithms |
 | 023!  | mv  | [The more FLOPS the better](article-drafts-20190307/article-0-23.md) |
-| 024*   | mv  | Atomic Operation |
+| 024   | mv  | Atomic Operation |
 | 025!  | mv  | [Why we all hate Bugs!](article-drafts-20190328/article-1-25.md)|
 | 026   | mv  | Debugging |
 | 027   | mv  | Why Indexes speed-up things |
@@ -68,7 +68,7 @@ This is a first provisional list without any ranking.
 | 055*  | mv  | Turing completeness |
 | 056   | mv  | Random Seed |
 | 057   | mv  | Tuple |
-| 058   | mv  | Mutex |
+| 058*   | mv  | Mutex |
 | 059   | mv  | Backbone |
 | 060   | mv  | Handshaking |
 | 061   | mv  | Multiplexer |
