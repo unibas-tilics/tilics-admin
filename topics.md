@@ -89,7 +89,7 @@ This is a first provisional list without any ranking.
 | 076*  | mv  | Always use a *Version Control System (VCS)* |
 | 077   | mv  | Cloud |
 | 078   | mv  | Choose the proper *level of abstraction* |
-| 079   | mv  | Fork |
+| 079*   | mv  | Fork |
 | 080   | mv  | Writing good documentation |
 | 081   | mv  | Pair programming |
 | 082   | mv  | Script kiddie |
