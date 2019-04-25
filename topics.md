@@ -12,7 +12,7 @@ This is a first provisional list without any ranking.
 | ---   | --- | --- | 
 | 000*  | cft | [Kleene star](article-drafts-20190307/article-0-0.md) |
 | 001*  | ml  | Halting problem |
-| 002   | mv  | Camel Case |
+| 002*   | mv  | Camel Case |
 | 003*  | mv  | [Divide and Conquer](article-drafts-20190307/article-0-3.md) |
 | 004   | mv  | Leetspeak |
 | 005*  | mv  | How to count |
