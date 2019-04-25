@@ -12,7 +12,7 @@ This is a first provisional list without any ranking.
 | ---   | --- | --- | 
 | 000*  | cft | [Kleene star](article-drafts-20190307/article-0-0.md) |
 | 001*  | ml  | Halting problem |
-| 002*   | mv  | Camel Case |
+| 002!  | mv  | Camel Case |
 | 003*  | mv  | [Divide and Conquer](article-drafts-20190307/article-0-3.md) |
 | 004   | mv  | Leetspeak |
 | 005*  | mv  | How to count |
@@ -33,9 +33,9 @@ This is a first provisional list without any ranking.
 | 020   | mv  | Quick Sort |
 | 021   | mv  | Merge Sort |
 | 022   | mv  | Deterministic and Non-deterministic Algorithms |
-| 023*  | mv  | [The more FLOPS the better](article-drafts-20190307/article-0-23.md) |
+| 023!  | mv  | [The more FLOPS the better](article-drafts-20190307/article-0-23.md) |
 | 024*   | mv  | Atomic Operation |
-| 025*  | mv  | [Why we all hate Bugs!](article-drafts-20190328/article-1-25.md)|
+| 025!  | mv  | [Why we all hate Bugs!](article-drafts-20190328/article-1-25.md)|
 | 026   | mv  | Debugging |
 | 027   | mv  | Why Indexes speed-up things |
 | 028   | mv  | Machine Language vs. Programming Language (And Compiling) |
