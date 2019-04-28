@@ -41,7 +41,7 @@ This is a first provisional list without any ranking.
 | 028   | mv  | Machine Language vs. Programming Language (And Compiling) |
 | 029*  | mv  | [Recursion](article-drafts-20190307/article-0-29.md) |
 | 030*  | mv  | Big O Notation |
-| 031   | mv  | Greedy Algorithm |
+| 031*   | mv  | Greedy Algorithm |
 | 032*  | mv  | [Deadlock](article-drafts-20190328/article-1-32.md) |
 | 033!  | mv  | [~~Brute force~~](articles-moved-to-tilics/article-1-033.md) |
 | 034   | mv  | Separation of concerns |
