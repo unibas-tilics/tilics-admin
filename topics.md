@@ -133,6 +133,7 @@ This is a first provisional list without any ranking.
 | 120*  | omn | Random variables |
 | 121!  | cft | Quine |
 | 122*  | rd  | ASCII |
+| 123*  | omn  | Dynamic programming |
 
 ### Quotes
 
