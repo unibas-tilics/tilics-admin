@@ -130,7 +130,8 @@ This is a first provisional list without any ranking.
 | 117*  | rd  | Why it is good to always use the same example |
 | 118*  | mv  | State machine |
 | 119*  | ts  | Supervised Learning |
-| 120*  | omn  | Random variables |
+| 120*  | omn | Random variables |
+| 121!  | cft | Quine |
 
 ### Quotes
 
