@@ -48,7 +48,7 @@ This is a first provisional list without any ranking.
 | 035   | mv  | Syntactic sugar |
 | 036   | mv  | [Moore's Law](article-drafts-20190307/article-0-36.md) |
 | 037   | mv  | Scalability |
-| 038   | mv  | Turing Test |
+| 038*   | mv  | Turing Test |
 | 039*  | mv  | Binary & Hexadecimal |
 | 040   | mv  | Functional Programming vs Imperative programming |
 | 041   | mv  | Endian |
