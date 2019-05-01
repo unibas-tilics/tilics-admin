@@ -126,12 +126,13 @@ This is a first provisional list without any ranking.
 | 113*  | ml  | [Lisp](article-drafts-20190411/article-1-113.md)
 | 114*  | slp | Why Uptime Matters |
 | 115*  | rd  | When use if |
-| 116*  | rd  | Names of of programming languages |
+| 116*  | rd  | esoteric programming languages |
 | 117*  | rd  | Why it is good to always use the same example |
 | 118*  | mv  | State machine |
 | 119*  | ts  | Supervised Learning |
 | 120*  | omn | Random variables |
 | 121!  | cft | Quine |
+| 122*  | rd  | ASCII |
 
 ### Quotes
 
