@@ -41,14 +41,14 @@ This is a first provisional list without any ranking.
 | 028   | mv  | Machine Language vs. Programming Language (And Compiling) |
 | 029*  | mv  | [Recursion](article-drafts-20190307/article-0-29.md) |
 | 030*  | mv  | Big O Notation |
-| 031*   | mv  | Greedy Algorithm |
+| 031*  | mv  | Greedy Algorithm |
 | 032*  | mv  | [Deadlock](article-drafts-20190328/article-1-32.md) |
 | 033!  | mv  | [~~Brute force~~](articles-moved-to-tilics/article-1-033.md) |
 | 034   | mv  | Separation of concerns |
 | 035   | mv  | Syntactic sugar |
 | 036   | mv  | [Moore's Law](article-drafts-20190307/article-0-36.md) |
 | 037   | mv  | Scalability |
-| 038*   | mv  | Turing Test |
+| 038*  | mv  | Turing Test |
 | 039*  | mv  | Binary & Hexadecimal |
 | 040   | mv  | Functional Programming vs Imperative programming |
 | 041   | mv  | Endian |
@@ -56,8 +56,8 @@ This is a first provisional list without any ranking.
 | 043   | mv  | Polymorphism |
 | 044   | mv  | Lambda calculus |
 | 045   | mv  | Middleware |
-| 046*   | mv  | Overflow |
-| 047*   | mv  | Game of Life |
+| 046*  | mv  | Overflow |
+| 047*  | mv  | Game of Life |
 | 048   | mv  | Play in a *Sandbox* |
 | 049   | mv  | Fuzzy Logic |
 | 050   | mv  | Hello world |
@@ -68,14 +68,14 @@ This is a first provisional list without any ranking.
 | 055*  | mv  | Turing completeness |
 | 056   | mv  | Random Seed |
 | 057   | mv  | Tuple |
-| 058*   | mv  | Mutex |
+| 058*  | mv  | Mutex |
 | 059   | mv  | Backbone |
-| 060   | mv  | Handshaking |
+| 060!  | mv  | Handshaking |
 | 061   | mv  | Multiplexer |
 | 062   | mv  | Shell |
 | 063*  | mv  | Reverse engineering |
 | 064   | mv  | Parity bit |
-| 065*   | mv  | Information hiding |
+| 065*  | mv  | Information hiding |
 | 066   | cft | Mythical Man Month |
 | 067   | mv  | Hungarian notation |
 | 068   | mv  | Agile Manifesto |
@@ -89,7 +89,7 @@ This is a first provisional list without any ranking.
 | 076*  | mv  | Always use a *Version Control System (VCS)* |
 | 077   | mv  | Cloud |
 | 078   | mv  | Choose the proper *level of abstraction* |
-| 079*   | mv  | Fork |
+| 079*  | mv  | Fork |
 | 080   | mv  | Writing good documentation |
 | 081   | mv  | Pair programming |
 | 082   | mv  | Script kiddie |
