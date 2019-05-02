@@ -75,7 +75,7 @@ This is a first provisional list without any ranking.
 | 062   | mv  | Shell |
 | 063*  | mv  | Reverse engineering |
 | 064   | mv  | Parity bit |
-| 065   | mv  | Information hiding |
+| 065*   | mv  | Information hiding |
 | 066   | cft | Mythical Man Month |
 | 067   | mv  | Hungarian notation |
 | 068   | mv  | Agile Manifesto |
