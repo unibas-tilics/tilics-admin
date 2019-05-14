@@ -22,7 +22,7 @@ One of the lessons we learned during our studies is that teamwork is essential. 
 
 To keep track of the workflow, it was decided to use a Github repository. Every article was keep in a separate branch and submitted by opening a pull-request. The process of reviewing and editing was organized by assigning labels to the respective pull-requests. Discussions took place in the comments section. 
 
-After submission by its author, an article was discussed in the seminar plenum and reviewed by the review team. The author then edited the article to address the issues raised during the discussion. As soon as the article was conceptually done, the grpahics team started to crate an illustration. At this step, some of the articles were selected for public testing. The last step an article had to go through was the proof-reading by the grammar group. 
+After submission by its author, an article was discussed in the seminar plenum and reviewed by the review team. The author then edited the article to address the issues raised during the discussion. As soon as the article was conceptually done, the graphics team started to create an illustration. At this step, some of the articles were selected for public testing. The last step an article had to go through was the proof-reading by the grammar group. 
 
 The process was assessed in weekly scrum-style meetings. This was also an opportunity for the group to discuss the content of the articles created by their fellow students. As the requirements for the book creation process were not know in advance, the workfow was adjusted as needed. 
 
