@@ -12,21 +12,23 @@ The goal of this exercise was to reflect our *déformation professionelle* as co
 
 ## Getting organized
 
-Since it was the first time this seminar was offered, there was no well defined roadmap yet. How to create a book whithin one semester? What exactly should be its content? How make a manuscript ready for publication? It was part of the brainstorming sessions at the beginnig of the seminar to find answers to these questions. As it turned out we already had a rough plan after the first 2 sessions. Achieving the ambitious goal set by the seminar description seemed doable.
+Since it was the first time this seminar was offered, there was no well defined roadmap yet. How to create a book whithin one semester? What exactly should be its content? How to make a manuscript ready for publication? It was part of the brainstorming sessions at the beginnig of the seminar to find answers to these questions. As it turned out we already had a rough plan after the first 2 sessions. Achieving the ambitious goal set by the seminar description seemed doable.
 
 Several core tasks were identified and assigned to groups of 1-3 people. These are: assembling and clustering the list of topics to cover in the book, finding the appropriate tools used in the process, reviewing the submitted manuscripts, creating illustrations for the book and collecting feedback from the public.
 
 One of the lessons we learned during our studies is that teamwork is essential. In a broader sense, this also applies to the sharing of knowledge. This is why it was decided that whatever would come out at the end of the process should be published under a Creative Commons license.
 
-## 3. A well-oiled process
+## A well-oiled process
 
-- scrum-style meetings
-- "agile development" 
-- tests/feedback
+To keep track of the workflow, it was decided to use a Github repository. Every article was keep in a separate branch and submitted by opening a pull-request. The process of reviewing and editing was organized by assigning labels to the respective pull-requests. Discussions took place in the comments section. 
 
-TODO: diagram of the **tilics**-state machine
+After submission by its author, an article was discussed in the seminar plenum and reviewed by the review team. The author then edited the article to address the issues raised during the discussion. As soon as the article was conceptually done, the grpahics team started to crate an illustration. At this step, some of the articles were selected for public testing. The last step an article had to go through was the proof-reading by the grammar group. 
 
-## 4. The result
+The process was assessed in weekly scrum-style meetings. This was also an opportunity for the group to discuss the content of the articles created by their fellow students. As the requirements for the book creation process were not know in advance, the workfow was adjusted as needed. 
+
+## The result
+
+TODO: Add statistics about articles, PRs, comments, etc.
 
 - articles
 - website
