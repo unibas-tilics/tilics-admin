@@ -135,6 +135,7 @@ This is a first provisional list without any ranking.
 | 122*  | rd  | ASCII |
 | 123*  | omn  | Dynamic programming |
 | 124*  | mz | Counting systems |
+| 125*  | sd | Euler path |
 
 ### Quotes
 
