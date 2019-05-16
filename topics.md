@@ -60,7 +60,7 @@ This is a first provisional list without any ranking.
 | 047*  | mv  | Game of Life |
 | 048   | mv  | Play in a *Sandbox* |
 | 049   | mv  | Fuzzy Logic |
-| 050   | mv  | Hello world |
+| 050*  | mv  | Hello world |
 | 051   | mv  | Gaussian pyramid |
 | 052!  | mv  | [~~Diff~~](articles-moved-to-tilics/article-1-052.md) |
 | 053   | mv  | Zombie Process |
